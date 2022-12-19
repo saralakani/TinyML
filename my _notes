@@ -1,0 +1,2 @@
+Activation function at output layer: (for more than two classes:softmax, for binary classes:simoid)
+https://medium.com/@elishatofunmi/optimizer-losses-and-activation-functions-in-fully-connected-neural-networks-e1958bc66121
